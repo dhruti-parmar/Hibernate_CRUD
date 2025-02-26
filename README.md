@@ -2,7 +2,7 @@
 
 This is a **Java-based CRUD application** using **Hibernate, MySQL, and Maven**. It allows users to **Create, Read, Update, and Delete (CRUD)** Employee records along with their **Departments, Addresses, and Projects**.
 
-## 📋 Features  
+## Features  
 Create, Read, Update, and Delete Employees  
 Assign Employees to Departments  
 Manage Employee Addresses  
